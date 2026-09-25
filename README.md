@@ -7,10 +7,10 @@ An interactive **Power BI Dashboard** built to analyze sales performance, custom
 ## 📸 Dashboard Preview
 
 ### Landing Page
-> Add `page1.png`
+> Add `page1.PNG`
 
 ### Dashboard
-> Add `page2.png`
+> Add `page2.PNG`
 
 ---
 
