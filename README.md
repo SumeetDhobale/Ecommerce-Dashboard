@@ -7,10 +7,10 @@ An interactive **Power BI Dashboard** built to analyze sales performance, custom
 ## 📸 Dashboard Preview
 
 ### Landing Page
-> Add `page1.PNG`
+![Landing Page](page1.png)
 
 ### Dashboard
-> Add `page2.PNG`
+![Dashboard](page3.png)
 
 ---
 
@@ -115,18 +115,6 @@ The datasets contain information about:
 - Data Visualization
 - Interactive Reporting
 - KPI Development
-
----
-
-## 📷 Screenshots
-
-### Landing Page
-
-![Landing Page](page1.png)
-
-### Dashboard
-
-![Dashboard](page2.png)
 
 ---
 
